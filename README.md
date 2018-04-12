@@ -1,1 +1,2 @@
-This repo contains the scripts demonstrated during the presentation at Enfuse 2018 in Las Vegas
+# TSDF17
+Presentation Materials for Techno Security &amp; Digital Forensics 2017
